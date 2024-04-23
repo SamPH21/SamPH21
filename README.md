@@ -1,5 +1,5 @@
 #  Samuel Ponce Hernández 
-## FullStack Developer 
+## Frontend Developer 
 
 ### Tecnologías
 - HTML
